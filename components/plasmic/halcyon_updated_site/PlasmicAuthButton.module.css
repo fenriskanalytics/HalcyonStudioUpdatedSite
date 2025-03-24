@@ -1,0 +1,32 @@
+.root:global(.__wab_instance) {
+  max-width: 100%;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+}
+.svg__l1J8T {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.text {
+  font-size: 18px;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: var(--token-CqWgxXYQugLC);
+  text-align: left;
+  line-height: 1.7;
+  letter-spacing: 0.01em;
+  white-space: pre-wrap;
+  user-select: text;
+  text-decoration-line: none !important;
+  text-overflow: clip !important;
+}
+.svg__mgU8Q {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}

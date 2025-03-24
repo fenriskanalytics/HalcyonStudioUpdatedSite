@@ -1,0 +1,47 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  height: auto;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  color: var(--token-zy6xhYnWF8Y7);
+  padding: 4px;
+}
+.text {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  color: var(--token-VK3BY7WP91Dz);
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  min-width: 0;
+}
+.textprivacyPolicy {
+  font-size: 12px;
+}
+.textcookiesPolicy {
+  font-size: 12px;
+}
+.texttermsOfService {
+  font-size: 12px;
+}
+.root:hover .text {
+  color: var(--token-c4lyiv3SiDeg);
+}
+.root:active .text {
+  color: var(--token-JP-pI4-MAOWS);
+}

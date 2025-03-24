@@ -1,0 +1,191 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  background: var(--token-VK3BY7WP91Dz);
+  box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.2);
+  position: relative;
+  min-width: 0;
+  border-radius: 6px;
+  padding: 8px;
+}
+.text__fuLBe {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-size: 36px;
+  margin-bottom: 12px;
+  font-family: "Playfair Display SC", serif;
+  color: var(--token-bhVRrHYU3Hsn);
+  text-align: center;
+  font-weight: 400;
+  margin-top: 6px;
+  min-width: 0;
+}
+.privatesForm2:global(.__wab_instance) {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: flex-end;
+  align-items: center;
+  object-fit: cover;
+  color: var(--token-bhVRrHYU3Hsn);
+  background: none;
+  font-family: "Playfair Display", serif;
+  box-shadow: none;
+  min-width: 0;
+  border-radius: 6px;
+  padding: 8px;
+}
+.firstName:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  background: var(--token-VK3BY7WP91Dz);
+  min-width: 0;
+}
+.text__lQwva {
+  font-weight: 500;
+  color: var(--token-kAcAL1M9vp4P);
+  font-family: "Playfair Display", serif;
+}
+.firstNameInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-j4a2wuM3SSzf);
+}
+.lastName:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.text__zINjq {
+  color: var(--token-kAcAL1M9vp4P);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+}
+.lastNameInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-j4a2wuM3SSzf);
+}
+.phone:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.text__ymkYp {
+  color: var(--token-kAcAL1M9vp4P);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+}
+.phoneInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-j4a2wuM3SSzf);
+}
+.email:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.text__a8YbD {
+  color: var(--token-kAcAL1M9vp4P);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+}
+.emailInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-j4a2wuM3SSzf);
+}
+.interestedIn:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  max-width: 100%;
+  object-fit: cover;
+  min-width: 0;
+}
+.interestedInSelect:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-j4a2wuM3SSzf);
+}
+.text__fkDKm {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  color: var(--token-kAcAL1M9vp4P);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+  min-width: 0;
+}
+.expectedGuests:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.text__c94Ol {
+  color: var(--token-kAcAL1M9vp4P);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+}
+.expectedGuestsInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-j4a2wuM3SSzf);
+}
+.comments:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  background: #ffffff00;
+  min-width: 0;
+}
+.text__fv5W {
+  color: var(--token-kAcAL1M9vp4P);
+  font-weight: 500;
+  font-family: "Playfair Display", serif;
+}
+.commentsInput:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-j4a2wuM3SSzf);
+}
+.formField__mprHr:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.numberInput2:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+}
+.formField__mEsGp:global(.__wab_instance) {
+  width: 100%;
+  margin-bottom: 24px;
+  min-width: 0;
+}
+.input5:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+}
+.button:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  background: var(--token-bhVRrHYU3Hsn);
+  margin-bottom: 12px;
+}
+.text__xS7N {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+}
